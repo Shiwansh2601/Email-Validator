@@ -1,5 +1,4 @@
 
----
 
 # 📧 Email Validation Script in Python
 
@@ -94,6 +93,6 @@ wrong Email 5
 
 This project is open-source and licensed under the MIT License.
 
----
+
 
 
